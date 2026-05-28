@@ -12,4 +12,5 @@ Simple Python script to delete all `.bak` files recursively. Works on Windows, L
 
 ```bash
 git clone https://github.com/theqarden/bak_cleaner
+cd bak_cleaner
 python3 bak_cleaner.py
